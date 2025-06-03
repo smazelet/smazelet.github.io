@@ -10,11 +10,14 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
-
 {% include bib_search.liquid %}
 
 <div class="publications">
 
-{% bibliography %}
+<h2>Preprints</h2>
+{% bibliography --query @*[note=Preprint] %}
+
+<h2>Published Papers</h2>
+{% bibliography --query @*[note!=Preprint] %}
 
 </div>
