@@ -337,8 +337,7 @@ bibtex_fields:
   - eprint
   - archivePrefix
   - primaryClass
-  - image
-
+  
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
 enable_publication_badges:
