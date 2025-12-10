@@ -7,6 +7,10 @@ nav: true
 
 Here is a list of my talks:
 
+- **Workshop mathematical foundations of AI - SCAI DataIA**: Unsupervised Learning for Optimal Transport plan prediction between unbalanced graphs
+  Date: December 2025  
+  [Slides](https://example.com/argo_seminar.pdf)
+
 - **INRIA Argo group meeting**: Unsupervised Learning for Optimal Transport plan prediction between unbalanced graphs
   Date: November 2025  
   [Slides](https://example.com/argo_seminar.pdf)
@@ -17,4 +21,4 @@ Here is a list of my talks:
 
 - **NeurIPS Paris 2024**: Binding in hippocampal-entorhinal circuits enables compositionality in cognitive maps
   Date: November 2024
-  [Slides](/assets/slides/NeuripsParis_2024.pdf)
+  [Slides](/assets/slides/workshop_math_IA.pdf)
