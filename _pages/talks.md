@@ -9,19 +9,19 @@ Here is a list of my talks:
 
 - **GLOW reading group**: Unsupervised Learning for Optimal Transport plan prediction between unbalanced graphs
   Date: January 2026  
-  [Slides](https://example.com/GLOW.pdf)
+  [Slides](/assets/slides/GLOW.pdf)
 
 - **Hi Paris reading group**: Meta Optimal Transport, learn to solve optimal transport problems
   Date: December 2025  
-  [Slides](https://example.com/Meta_OT_pres.pdf)
+  [Slides](/assets/slides/Meta_OT_pres.pdf)
 
 - **Workshop mathematical foundations of AI - SCAI DataIA**: Unsupervised Learning for Optimal Transport plan prediction between unbalanced graphs
   Date: December 2025  
-  [Slides](https://example.com/argo_seminar.pdf)
+  [Slides](/assets/slides/argo_seminar.pdf)
 
 - **Inria Argo seminar**: Unsupervised Learning for Optimal Transport plan prediction between unbalanced graphs
   Date: November 2025  
-  [Slides](https://example.com/argo_seminar.pdf)
+  [Slides](/assets/slides/argo_seminar.pdf)
 
 - **Inria MIND group meeting**: Unsupervised Learning for Optimal Transport plan prediction between unbalanced graphs
   Date: July 2025  
