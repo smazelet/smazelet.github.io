@@ -21,4 +21,4 @@ Here is a list of my talks:
 
 - **NeurIPS Paris 2024**: Binding in hippocampal-entorhinal circuits enables compositionality in cognitive maps
   Date: November 2024
-  [Slides](/assets/slides/workshop_math_IA.pdf)
+  [Slides](/assets/slides/NeuripsParis_2024.pdf)
