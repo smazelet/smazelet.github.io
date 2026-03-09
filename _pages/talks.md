@@ -11,7 +11,7 @@ Here is a list of my talks:
   Date: December 2025  
   [Slides](https://example.com/argo_seminar.pdf)
 
-- **INRIA Argo group meeting**: Unsupervised Learning for Optimal Transport plan prediction between unbalanced graphs
+- **Inria Argo seminar**: Unsupervised Learning for Optimal Transport plan prediction between unbalanced graphs
   Date: November 2025  
   [Slides](https://example.com/argo_seminar.pdf)
 
