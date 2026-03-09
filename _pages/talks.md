@@ -17,7 +17,7 @@ Here is a list of my talks:
 
 - **Workshop mathematical foundations of AI - SCAI DataIA**: Unsupervised Learning for Optimal Transport plan prediction between unbalanced graphs
   Date: December 2025  
-  [Slides](/assets/slides/argo_seminar.pdf)
+  [Slides](/assets/slides/workshop_math_IA.pdf)
 
 - **Inria Argo seminar**: Unsupervised Learning for Optimal Transport plan prediction between unbalanced graphs
   Date: November 2025  
