@@ -7,6 +7,9 @@ nav: true
 
 Here is a list of my talks:
 
+- **GeomeriX seminar**: Unsupervised Learning for Optimal Transport plan prediction between unbalanced graphs
+  Date: March 2026  
+
 - **GLOW reading group**: Unsupervised Learning for Optimal Transport plan prediction between unbalanced graphs
   Date: January 2026  
   [Slides](/assets/slides/GLOW.pdf)
